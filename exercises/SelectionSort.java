@@ -1,8 +1,8 @@
+package exercises;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class selectionSort {
-
+public class SelectionSort {
     public static void main(String[] args) {
         // Customise originalArray to experiment with Selection Sort.
         ArrayList<Integer> originalArray = new ArrayList<>(Arrays.asList(10, 2, 7, 4, 5));
