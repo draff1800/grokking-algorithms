@@ -1,7 +1,6 @@
-class BinarySearch {
-
+public class BinarySearch {
     public static void main(String[] args) {
-        // Customise binarySearch() call below to experiment with binary search.
+        // Customise binarySearch() call below to experiment with Binary Search.
         int[] numberList = {1,2,3,4,5,6,7,8,9,10};
         System.out.println(binarySearch(numberList, 7));
     }
