@@ -1,4 +1,5 @@
 package exercises;
+
 public class BinarySearch {
     public static void main(String[] args) {
         // Customise binarySearch() call below to experiment with Binary Search.
